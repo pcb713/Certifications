@@ -1,3 +1,4 @@
+```mermaid
 ## `Certifications/README.md`
 
 ```md
@@ -15,3 +16,4 @@
 ## Process Improvement
 - Lean Black Belt
 - Six Sigma Champion
+```
