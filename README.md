@@ -1,4 +1,4 @@
-## `certifications/README.md`
+## `Certifications/README.md`
 
 ```md
 # Professional Certifications
